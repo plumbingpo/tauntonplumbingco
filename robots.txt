@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tauntonplumbingco.com/sitemap.xml
